@@ -48,7 +48,7 @@ const cards = [
 
   {
     title: "She Is Beautiful",
-    reason: "He knows this might sound lazy to her, saying the obvious, but for him it is a blessing bruv, and he can't leave it out. He loves that she is beautiful  who wouldn't? But he loves that she is beautiful because it reflects who she is inside too. Anyone who takes a good look at her, her eyes, and her smile would definitely know the kind of woman she is  smart, intelligent, and confident — because it just oozes out of her pretty aura. Hahah, he loves her."
+    reason: "He knows this might sound lazy to her, saying the obvious, but for him it is a blessing bruv, and he can't leave it out. He loves that she is beautiful  who wouldn't? But he loves that she is beautiful because it reflects who she is inside too. Anyone who takes a good look at her, her eyes, and her smile would definitely know the kind of woman she is  smart, intelligent, and confident  because it just oozes out of her pretty aura. Hahah, he loves her."
   }
 ];
 
